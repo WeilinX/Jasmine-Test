@@ -1,0 +1,28 @@
+{
+  "name": "jasminetest",
+  "version": "1.0.0",
+  "description": "step to setup:\r -install nodejs first\r -In command ->goes to the directory of your folder\r -type in npm init\r -",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WeilinX/Jasmine-Test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/WeilinX/Jasmine-Test/issues"
+  },
+  "homepage": "https://github.com/WeilinX/Jasmine-Test#readme",
+  "devDependencies": {
+    "jasmine-core": "^2.3.4",
+    "karma": "^0.13.10",
+    "karma-chrome-launcher": "^0.2.0",
+    "karma-jasmine": "^0.3.6"
+  }
+}
